@@ -1,26 +1,6 @@
 // ---- START VEXCODE CONFIGURED DEVICES ----
 // Robot Configuration:
 // [Name]               [Type]        [Port(s)]
-// gyroo                inertial      6               
-// intake               motor         15              
-// catapult             motor         4               
-// leftwing             digital_out   A               
-// intakepistonb        digital_out   B               
-// rightwing            digital_out   H               
-// Controller1          controller                    
-// RotationRight        rotation      21              
-// RotationLeft         rotation      3               
-// Opticall             optical       2               
-// backleft             motor         17              
-// middleleft           motor         16              
-// frontleft            motor         12              
-// backright            motor         18              
-// middleright          motor         13              
-// frontright           motor         1               
-// ---- END VEXCODE CONFIGURED DEVICES ----
-// ---- START VEXCODE CONFIGURED DEVICES ----
-// Robot Configuration:
-// [Name]               [Type]        [Port(s)]
 // gyroo                inertial      20              
 // intake               motor         15              
 // catapult             motor         4               
@@ -35,46 +15,6 @@
 // middleleft           motor         16              
 // frontleft            motor         12              
 // backright            motor         18              
-// middleright          motor         13              
-// frontright           motor         1               
-// ---- END VEXCODE CONFIGURED DEVICES ----
-// ---- START VEXCODE CONFIGURED DEVICES ----
-// Robot Configuration:
-// [Name]               [Type]        [Port(s)]
-// gyroo                inertial      20              
-// intake               motor         15              
-// catapult             motor         4               
-// leftwing             digital_out   A               
-// intakepistonb        digital_out   B               
-// rightwing            digital_out   H               
-// Controller1          controller                    
-// RotationRight        rotation      21              
-// RotationLeft         rotation      3               
-// Opticall             optical       2               
-// backleft             motor         17              
-// middleleft           motor         16              
-// frontleft            motor         12              
-// backright            motor         14              
-// middleright          motor         13              
-// frontright           motor         1               
-// ---- END VEXCODE CONFIGURED DEVICES ----
-// ---- START VEXCODE CONFIGURED DEVICES ----
-// Robot Configuration:
-// [Name]               [Type]        [Port(s)]
-// gyroo                inertial      20              
-// intake               motor         15              
-// catapult             motor         4               
-// leftwing             digital_out   A               
-// intakepistonb        digital_out   B               
-// rightwing            digital_out   H               
-// Controller1          controller                    
-// RotationRight        rotation      21              
-// RotationLeft         rotation      18              
-// Opticall             optical       2               
-// backleft             motor         17              
-// middleleft           motor         16              
-// frontleft            motor         12              
-// backright            motor         14              
 // middleright          motor         13              
 // frontright           motor         1               
 // ---- END VEXCODE CONFIGURED DEVICES ----
