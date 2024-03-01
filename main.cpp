@@ -30,9 +30,9 @@ void forwardPIDD(int setpoint, int speed) {
   backleft.setPosition(0,degrees);
   float input = backleft.position(degrees);
   float power;
-  float kP = 0.14 * (.01 * speed);
+  float kP = 0.07 * (.01 * speed);
   // float kI = 0.0002;
-  float kD = 0.5;
+  float kD = 0.1;
   
   float error = setpoint - input;
   // float integral = 0;
